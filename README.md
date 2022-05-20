@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="76" height="100" src="./images/final2.gif">
-</p>
 
 <h1 align="center">CS392 Software Engineering 2</h1>
 
@@ -17,6 +14,7 @@ Second, updating the user interface page.
 ---
 <h2 align="left">Travis CI</h2>
 her we link github with travis-ci
+
 ![image](https://user-images.githubusercontent.com/105625538/169461337-784b6313-ba88-4926-a900-a3408a6896f8.png)
 
 ![image](https://user-images.githubusercontent.com/105625538/169462084-e77d4ebb-5bbb-44e0-acac-5ac3fcf32011.png)
