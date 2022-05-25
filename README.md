@@ -1,8 +1,6 @@
-
 <h1 align="center">CS392 Software Engineering 2</h1>
 
 ---
-
 <h2 align="left">Description</h2>
 
 In this project we well developing a web base system for food text classification.
@@ -20,16 +18,19 @@ her we link github with travis-ci
 ![image](https://user-images.githubusercontent.com/105625538/169462084-e77d4ebb-5bbb-44e0-acac-5ac3fcf32011.png)
 
 ---
-
 <h2 align="left">My HTML page</h2>
 
 ![image](https://user-images.githubusercontent.com/105625538/169464028-981ee2fd-9651-4a0e-8199-d8c94416d202.png)
 
 ---
-
 <h2 align="left">OutPut</h2>
 
 ![image](https://user-images.githubusercontent.com/105625538/169464258-5ff4a5d4-bf99-4fa3-a4e3-3a5a61c62ac4.png)
+
+---
+<h2 align="left">Issues faced </h2>
+
+I couldn't integrate Travis CI into my GitHub project but after watching more videos it worked
 
 ---
 <h2 align="left">Team members</h2>
@@ -40,6 +41,3 @@ her we link github with travis-ci
 | Fatimah Ahmed Bin Dous | faadous@sm.imamu.edu.sa |
 | Nouf Hassan Al Nakhli | nalnikhili@sm.imamu.edu.sa |
 | Ameerah Ali Alsuhaibani | aalsuhaibani29@sm.imamu.edu.sa |
-
-
-
