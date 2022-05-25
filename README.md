@@ -27,7 +27,7 @@ her we link github with travis-ci
 
 ---
 
-<h2 align="left">My HTML page result</h2>
+<h2 align="left">OutPut</h2>
 
 ![image](https://user-images.githubusercontent.com/105625538/169464258-5ff4a5d4-bf99-4fa3-a4e3-3a5a61c62ac4.png)
 
