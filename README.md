@@ -17,6 +17,8 @@ her we link github with travis-ci
 
 ![image](https://user-images.githubusercontent.com/105625538/169462084-e77d4ebb-5bbb-44e0-acac-5ac3fcf32011.png)
 
+Travis CI Link https://app.travis-ci.com/github/Rawan-Saad/CS392-SW/branches
+
 ---
 <h2 align="left">My HTML page</h2>
 
