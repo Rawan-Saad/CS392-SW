@@ -38,6 +38,8 @@ her we link github with travis-ci
 | ------------- |:-------------:|
 | Rawan Saad Alshalawi  | rsmalshalawi@sm.imamu.edu.sa |
 | Fatimah Ahmed Bin Dous | faadous@sm.imamu.edu.sa |
+| Nouf Hassan Al Nakhli | nalnikhili@sm.imamu.edu.sa |
+| Ameerah Ali Alsuhaibani | aalsuhaibani29@sm.imamu.edu.sa |
 
 
 
